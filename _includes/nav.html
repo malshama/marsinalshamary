@@ -14,25 +14,33 @@
             {% endif %}
         {% endif %}
 
-        {% if site.projects == true %}
-            {% if page.title != "Projects" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Projects</a>
-                </li>
-            {% endif %}
+        {% if site.about == true %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/about">About</a>
+            </li>
         {% endif %}
 
-        {% if site.about == true %}
-            {% if page.title != "About" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
-                </li>
-            {% endif %}
+        {% if site.research == true %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/research">Research</a>
+            </li>
+        {% endif %}
+
+        {% if site.writing == true %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/writing">Writing</a>
+            </li>
+        {% endif %}
+
+        {% if site.fieldwork == true %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/fieldwork">Fieldwork</a>
+            </li>
         {% endif %}
 
         {% if site.resume == true %}
             <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">CV</a>
+                <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">CV</a>
             </li>
         {% endif %}
     </ul>
