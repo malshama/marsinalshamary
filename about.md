@@ -4,47 +4,29 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p> Marsin Alshamary is a PhD candidate in Comparative Politics and International Relations. Her research interests include religion, civil society and social movements in the Shi’a Middle East. Marsin holds a BA in International Relations and French from Wellesley College.</p>
+<p>
 
-<!--
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hello everyone and welcome to my website. My name is Marsin (pronounced “mar-seen”) and I’m an Iraqi-American PhD candidate in comparative politics at MIT. Before MIT, I spent four wonderful years studying International Relations at Wellesley College, where I was an Albright Fellow. In the upcoming academic year (2019-2020), I will be joining the Middle East Initiative at the Harvard Kennedy School as a pre-doctoral research fellow.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</p>
 
-<h2>Skills</h2>
+<p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+I am broadly interested in the intersection of religion and politics in the Middle East, with a particular focus on Shi’ism. More specifically, I study the role of clerics in formal politics (e.g. elections, political parties) and informal politics (e.g. protests, social movements, and civil society). My dissertation (Prophets and Priests: Religious Leaders and Anti-Government Protest in Iraq) explores the political involvement of the Iraqi Shi’a religious establishment (the Hawza) in over a century of anti-government protest. If you’re interested in how I ended up doing research on Iraqi clerics, you can read my <a target="_blank" href="https://news.mit.edu/2016/from-babylon-to-baudelaire-and-back-marsin-alshamary-0526">story</a> here (spoiler alert: it involves clerics and failed revolutions).
+</p>
 
-<h2>Projects</h2>
+<p>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
--->
+As an MIT student, I strongly believe that research should be useful and ethical. To that end, I strive to make my research policy-relevant, collaborative and transparent. As a result, I have written op-eds for various outlets, given presentations to various policymakers, and cooperated with Iraqi clerics and academics in peacebuilding and interfaith workshops.
+
+</p>
+
+<p>
+
+ I firmly believe in giving back to my community and paying good deeds forward. As a student, I’ve received excellent guidance from several mentors at MIT and at Wellesley. As a researcher during fieldwork, I’ve benefited from the kindness of many Iraqis who have gone out of their way to help me access resources. I hope to pay these kindnesses forward and encourage anyone to reach out if I may be of use to them. As a Wellesley alumna, I feel compelled to add that my door is always open to other women in the discipline and also to those who may be interested in learning more about getting a PhD in political science. Please feel free to reach out! </p>
+
+<p>
+
+When I’m not doing research or thinking about Middle Eastern politics, I am reading novels (and blogging about them), writing stories (one of which is set in 1920s Iraq and involves a cleric), and otherwise living the life of a stereotypical Bostonian who enjoys running by the Charles and drinking unhealthy amounts of coffee.
+
+</p>
