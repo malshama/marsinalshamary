@@ -4,7 +4,7 @@ layout: page
 ---
 
 <div>
-    <h3><b>Prophets and Priests: Religious Leaders and Anti Government Protest in Iraq (Dissertation project)</b>
+    <h3><b>Prophets and Priests: Religious Leaders and Anti-Government Protest in Iraq (dissertation project)</b>
     </h3>
     <h3><p>Committee: Roger Petersen (Chair), <a target="_blank" href="http://www.mit.edu/~rnielsen/bio.htm">Richard
             Nielsen</a>
