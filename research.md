@@ -34,6 +34,11 @@ layout: page
         protest after violence has broken out, seeking to manage the conflict in ways that will leave the institutions
         unscathed. These arguments hold across nearly a century of Iraqi history and have significant policy
         implications for the region. </p>
+
+    <div class="toleft">
+        <img class="image" src="https://marsinalshamary.com/assets/images/IMG_8145.jpg" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
+    </div>
 </div>
 
 <div>
