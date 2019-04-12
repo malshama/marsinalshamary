@@ -35,14 +35,18 @@ layout: page
         unscathed. These arguments hold across nearly a century of Iraqi history and have significant policy
         implications for the region. </p>
 
-    <div class="toleft">
-        <img class="image" src="https://marsinalshamary.com/assets/images/IMG_8145.jpg" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+    <div>
+        <img class="image" src="../assets/images/qazwini.jpg" alt="Interview of Marsin Alshamary interviewing Mortada Al-Qazwini">
+        <figcaption class="caption">Interviewing Mortada Al-Qazwini</figcaption>
     </div>
 </div>
 
 <div>
     <h3><b><i>Religious Capital: Pilgrimages and the Development of Civil Society in Southern Iraq </i></b></h3>
+    <div>
+        <img class="image" src="../assets/images/kerbala.jpg" alt="Kerbala at Night">
+        <figcaption class="caption">Kerbala at Night</figcaption>
+    </div>
     <p> How is civil society created? Under Saddam Hussein’s Baathist regime (1979-2003), Iraqi civil society was decimated. Its’ remnants turned into subterranean units or transferred their activities abroad. Despite this, post-Ba’athist Iraq has seen a remarkable growth in the number and diversity of civil society organizations (CSOs). As of July 2018, the Iraqi NGO Directorate listed 3,648 CSOs working across 17 sectors. In southern Iraq, the cities of Kerbala and Najaf have the highest number of registered CSOs per capita, seemingly eclipsing larger and more prosperous cities in associational life. However, unlike other Iraqi cities, Kerbala and Najaf have an abundance of service-providing and cultural organizations and a marked paucity of advocacy-oriented ones. How can this variation in civil society development be explained?</p>
 
     <p> In this project, I argue that religious institutions, abundant in Kerbala and Najaf, can provide both the means and motives for the development of certain types of CSOs. Specifically, I examine the impact of annual religious pilgrimages to Kerbala and Najaf on the development and activities of local organizations. I demonstrate how these pilgrimages, which draw in millions of visitors and involve extensive coordination efforts, can foster organic associational life. </p>
