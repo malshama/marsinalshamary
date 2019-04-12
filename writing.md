@@ -2,6 +2,9 @@
 layout: page
 title: Writing
 ---
+<img class="image" src="../assets/images/thaqafairaqia.jpg" alt="Rescuing Iraqi Culture finished in 2010. The pillar contains Sumerian characters which read 'Writing started here'">
+<figcaption class="caption">"Rescuing Iraqi Culture" finished in 2010. The pillar contains Sumerian characters which read "Writing started here"</figcaption>
+<br/>
 
 <div>
     <p>
@@ -59,5 +62,7 @@ title: Writing
                 <i>MIT Center for International Studies Precis,</i> Fall 2016
         </p>
 </div>
-
+<br/>
+<img class="image" src="../assets/images/fog_palmtrees.jpg" alt="Palm orchards en route to Baghdad">
+<figcaption class="caption">Palm orchards en route to Baghdad</figcaption>
 

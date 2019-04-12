@@ -36,9 +36,10 @@ layout: page
         implications for the region. </p>
 
     <div>
-        <img class="image" src="../assets/images/qazwini.jpg" alt="Interview of Marsin Alshamary interviewing Mortada Al-Qazwini">
-        <figcaption class="caption">Interviewing Mortada Al-Qazwini</figcaption>
+        <img class="image" src="../assets/images/qazwini.jpg" alt="Interview of Marsin Alshamary interviewing Ayatollah Mortada Al-Qazwini">
+        <figcaption class="caption">Interviewing Ayatollah Mortada Al-Qazwini</figcaption>
     </div>
+    <br/>
 </div>
 
 <div>
@@ -47,6 +48,8 @@ layout: page
         <img class="image" src="../assets/images/kerbala.jpg" alt="Kerbala at Night">
         <figcaption class="caption">Kerbala at Night</figcaption>
     </div>
+    <br/>
+
     <p> How is civil society created? Under Saddam Hussein’s Baathist regime (1979-2003), Iraqi civil society was decimated. Its’ remnants turned into subterranean units or transferred their activities abroad. Despite this, post-Ba’athist Iraq has seen a remarkable growth in the number and diversity of civil society organizations (CSOs). As of July 2018, the Iraqi NGO Directorate listed 3,648 CSOs working across 17 sectors. In southern Iraq, the cities of Kerbala and Najaf have the highest number of registered CSOs per capita, seemingly eclipsing larger and more prosperous cities in associational life. However, unlike other Iraqi cities, Kerbala and Najaf have an abundance of service-providing and cultural organizations and a marked paucity of advocacy-oriented ones. How can this variation in civil society development be explained?</p>
 
     <p> In this project, I argue that religious institutions, abundant in Kerbala and Najaf, can provide both the means and motives for the development of certain types of CSOs. Specifically, I examine the impact of annual religious pilgrimages to Kerbala and Najaf on the development and activities of local organizations. I demonstrate how these pilgrimages, which draw in millions of visitors and involve extensive coordination efforts, can foster organic associational life. </p>
@@ -55,7 +58,13 @@ layout: page
 </div>
 
 <div>
+
     <h3><b><i>The Ideological Transformation of the Da’wa Party </i></b></h3>
+    <div>
+        <img class="image" src="../assets/images/da'wa_party.jpg" alt="Dawa Party Electoral Poster in Najaf ">
+        <figcaption class="caption">Dawa Party Electoral Poster in Najaf </figcaption>
+    </div>
+    <br/>
     <p> This project explores the ideological transformation of the Islamic Daʿwa Party. Daʿwa is one of the oldest Islamist parties in the Middle East and the oldest Shiʿa Political Party. Despite years of persecution under the Baathist regime, it has endured for six decades and occupied the highest government posts in democratizing Iraq. At the time of its inception by a group of Shiʿa clerics in 1958, Hizb Al-Daʿwa was influenced by Sunni Islamists like Sayyed Qutb and the Muslim Brotherhood. Its pan-Islamist, anti-communist views rendered it non-sectarian and yet, six decades later, Hizb Al-Daʿwa is considered to be one of the causes of Iraq’s sectarian woes. How did Al-Daʿwa’s ideology disintegrate so much from its original basis and what factors led to this transformation over time?  </p>
 
     <p> To answer this question, I draw upon internal Daʿwa documents, academic histories of the party, biographies of its key figures as well as interviews with current and former members at the elite and local levels (conducted in Iraq, the US and the UK). I use this data to test pre-existing social scientific theories – like the inclusion moderation hypothesis – on an understudied yet extremely important Islamist party.  </p>
