@@ -76,7 +76,7 @@ width: normal
 # REMINDER - to add more pages add a page change in nav.html and add a true here
 about: true
 research: true
-fieldwork: true
+fieldwork: false
 writing: true
 blog: false
 
