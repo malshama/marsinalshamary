@@ -8,7 +8,7 @@ title: Writing
 
 <div>
     <p>
-        “Does the Hawza Preach Forgiveness? The Marjaya between Conflict and Peacebuilding” (forthcoming in a special issue of <i>Conflict, Security and Development</i>)
+        “Does the Hawza Preach Forgiveness? The Marjaya between Conflict and Peacebuilding” (forthcoming in a special issue in the <i>Journal of Intervention and Statebuilding</i>)
         Public Presentation on <a target="_blank" href="https://www.bu.edu/calendar/?uid=226474@17.calendar.bu.edu&day=2019-4-12&eid=193783&cid=17">April 12th at Boston University</a>
     </p>
 </div>
