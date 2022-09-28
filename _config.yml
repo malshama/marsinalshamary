@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-#resume-url: https://drive.google.com/file/d/1hY6xULDkVB5YB60KkYCsetDkj4Hxwoye/view?usp=sharing
+resume-url: https://docs.google.com/document/d/1HaVS6pCrjGDFs_qXNzUxPSf1WUW7Ls0O/
 
 url: https://marsinalshamary.com
 # your url: http://USERNAME.github.io
@@ -50,7 +50,7 @@ twitter: marsinra
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: marsin@mit.edu
+email: marsinalshamary@gmail.com
 
 authors:
     marsinalshamary:
